@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conosole 3d fps", "conosole 3d fps\conosole 3d fps.csproj", "{DF3FC838-B471-47BB-943E-09B077ED793F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF3FC838-B471-47BB-943E-09B077ED793F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3FC838-B471-47BB-943E-09B077ED793F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3FC838-B471-47BB-943E-09B077ED793F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3FC838-B471-47BB-943E-09B077ED793F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4662936-C21A-4F0D-8190-5383FD913A08}
+	EndGlobalSection
+EndGlobal
